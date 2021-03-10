@@ -1,0 +1,29 @@
+/*Reset CSS*/
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Avenir, sans-serif;
+}
+
+header img {
+    height: 80px;
+}
+div.part1 {
+    height: 125vh;
+    background-image: url('https://www.fastdev.org/wp-content/uploads/2020/11/main_background-scaled.jpg');
+    background-size: cover;
+    font-family: sans-serif;
+    color: white;
+   
+}
+header {
+    background-color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 80px;
+    
+
+}
+
